@@ -4,3 +4,4 @@ red
 black
 pink
 white
+java is fun
