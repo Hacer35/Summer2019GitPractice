@@ -5,5 +5,4 @@ black
 pink
 white
 orange
-C++
-java
+
