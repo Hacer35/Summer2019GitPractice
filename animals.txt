@@ -3,3 +3,5 @@ dig
 lion
 tiger
 rabbit
+wolf
+fox
