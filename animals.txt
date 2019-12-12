@@ -1,0 +1,5 @@
+cat
+dig
+lion
+tiger
+rabbit
