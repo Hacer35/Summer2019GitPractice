@@ -9,3 +9,5 @@ CA
 MD
 MI
 AL
+AZ
+KS
